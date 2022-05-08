@@ -7,5 +7,5 @@ Note: for the web and mobile versions of the application can be executed, it's e
 ## Web
 Note: after executing the command informed above, the web version of the application will be automatically opened in the browser.
 
-## Mobile
+### Mobile
 Note: after executing the command informed above, a QR Code will be displayed that must be scanned from an application called "Expo" that can be downloaded by smartphone from the "Play Store" or "App Store".
